@@ -1,5 +1,7 @@
 permalink: /:categories/:title/
 url: "http://example.com"
+production_url : http://AtlantisLin.github.io
+BASE_PATH : /Machines
 full_name: 机械厂ABCD
 first_name: 机械厂ABCD
 last_name:
