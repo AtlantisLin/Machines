@@ -50,7 +50,7 @@ a {
 /*
 	color: rgba(80, 160, 228);
 	font-size: 100%;*/
-	color: #444444;
+	color: #ddd;
 	text-decoration: none;
 }
 
@@ -98,10 +98,10 @@ h1 {
 }
 
 #logo a {
-    font-size: 20px;
-    color: #666;
+    font-size: 30px;
+    color: #eee;
     text-decoration: none;
-    font-family: "Raleway";
+    font-family: "微软雅黑";
 }
 
 
@@ -344,7 +344,7 @@ only screen and (max-width: 600px) {
 .post-content {
     background: #222222!important;
     border-radius: 0;
-    color: #444;
+    color: #eee;
 }
 .post-title {
     margin: 40px 0px 8px 0px;
@@ -354,7 +354,7 @@ section{
 	background-image: url('/images/18asaigon-hero.jpg');
 	background-size: cover;
 background-position: center;
-	height:100px;
+	height:80px;
 	width:100%;
 	margin-bottom: 40px;
 }
@@ -374,8 +374,8 @@ h1.post-title {
 
 #posts.leftblock, .rightblock {width:100%}
 #content.hp{background: transparent}
-.rightblock{color:#444;text-align:left}
-.rightblock b, .rightblock strong, .rightblock a {color: #555}
+.rightblock{color:#ddd;text-align:left}
+.rightblock b, .rightblock strong, .rightblock a {color: #fff;font-size: 20px;}
 
 @media (min-width: 770px) {
 	#heading {
@@ -403,7 +403,7 @@ section#home-hero{
 		width:20%;
 		float:left;
 	}
-	.rightblock b, .rightblock strong, .rightblock a {color: #555}
+	.rightblock b, .rightblock strong, .rightblock a {color: #fff}
 
 }
 
